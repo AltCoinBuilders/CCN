@@ -1,0 +1,9 @@
+Building CCN
+
+See doc/readme-qt.rst for instructions on building CCN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CCN.
+
+See doc/build-*.txt for instructions on building CCNd,
+the intended-for-services, no-graphical-interface, reference
+implementation of CCN.
